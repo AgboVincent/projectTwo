@@ -10,7 +10,7 @@ export default function App() {
       />
       <Button title='ADD'/>
     </View>
-    <View style={{
+     <View style={{
       backgroundColor: 'red',
       width: 100,
       height: 100,
@@ -18,7 +18,7 @@ export default function App() {
       alignItems: 'center'
     }}>
       <Text>1</Text>
-    </View>
+    </View> 
     </View>
   );
 }
